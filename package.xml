@@ -1,0 +1,16 @@
+<package format="2">
+  <name>ati_haptics</name>
+  <version>1.0.0</version>
+  <description>
+    <p>Package for publishing ATI F/T sensor readings, and using with a Force Dimension haptics device</p>
+  </description>
+  <author>Kyle Schultz</author>
+  <maintainer email="kylews@uw.edu" />
+  <license>BSD</license>
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>roslaunch</depend>
+  <depend>rviz</depend>
+  <export>
+    <architecture_independent />
+  </export>
+</package>

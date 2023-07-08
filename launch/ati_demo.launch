@@ -1,0 +1,7 @@
+<launch>
+
+<node pkg="ati" name="ati_sensor" type="ati_sensor.py" output="screen"/>
+<node pkg="ati" type="ati_haptics" name="ati_haptics" output="screen"/>
+
+</launch>
+

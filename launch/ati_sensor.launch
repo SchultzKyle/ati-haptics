@@ -1,0 +1,5 @@
+<launch>
+
+<node pkg="ati" name="ati_sensor" type="ati_sensor.py" output="screen"/> 
+
+</launch>

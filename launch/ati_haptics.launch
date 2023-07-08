@@ -1,0 +1,6 @@
+<launch>
+
+<node pkg="ati" type="ati_haptics" name="ati_haptics" output="screen"/>
+
+</launch>
+
